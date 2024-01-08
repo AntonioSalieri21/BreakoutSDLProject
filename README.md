@@ -38,6 +38,5 @@ Collision of ball with bricks:
     3. Move ball
     4. Change direction
 
-P.S All textures (except background and volume button) created for this project, please add some points for it :D
 
 
